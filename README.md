@@ -50,9 +50,15 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/andr%C3%A9-diniz-81540112a/" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/andr%C3%A9-diniz-81540112a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5512997830712" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
   <a href="mailto:andre.diniz96@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
