@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is André safadinho and I'm a fullstack developer in training. I from Brazil</p>
+<p align="left">My name is André Diniz and I'm a fullstack developer in training. I from Brazil</p>
 
 ###
 
